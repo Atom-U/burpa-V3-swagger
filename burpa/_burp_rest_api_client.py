@@ -118,7 +118,7 @@ class BurpRestApiClient(ApiBase):
                          ),
         
         "docs": (  "get", 
-                         "/v2/api-docs",
+                         "/v3/api-docs",
                          None
                          ),
         
